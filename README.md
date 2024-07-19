@@ -1,0 +1,1 @@
+This files include the poster presented in Conference of Mathematical Geophysics (CMG 2024) organised by International union of Geodesy & Geophysics (IUGG) and Indian Institute of Technology Bombay in Bombay, india fromm 1-7th June 2024.
